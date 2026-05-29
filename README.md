@@ -21,7 +21,7 @@
 ### Шаг 1. Клонирование репозитория
 Откройте терминал на Raspberry Pi и скачайте проект:
 ```bash
-git clone [https://github.com/yukhimets/pi_scripts.git]
+git clone https://github.com/yukhimets/pi_scripts.git
 cd pi_scripts
 ```
 
